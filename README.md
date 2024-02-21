@@ -1,15 +1,17 @@
 # Controle de Servos e Motor de Passo com Arduino
 
-Este projeto Arduino permite controlar vários servos motores e um motor de passo usando potenciômetros. Os componentes principais incluem servos motorizados, um motor de passo NEMA17 e o driver PCA9685 para os servos.
+Este projeto Arduino permite controlar vários servos motores e um motor de passo usando potenciômetros. Os componentes principais incluem servos motorizados, um motor de passo NEMA17 e o driver PCA9685 para os servos para movimentar um braço robótico. 
+Projeto para impressão 3D: https://www.thingiverse.com/limpsquid/designs
+
 
 ## Hardware Necessário
 
-- Arduino Uno ou Mega
-- PCA9685 Servo Driver
-- Servos motores (quantidade conforme necessário)
+- Arduino Uno ou Mega (foi usando um mega pela quantidade portas analógicas caso use o Uno utilize um módulo hub de portas)
+- PCA9685 Servo Driver (https://www.eletrogate.com/modulo-pwm-pca9685-i2c-16-canais-para-servo?utm_source=Site&utm_medium=GoogleMerchant&utm_campaign=GoogleMerchant&utm_source=google&utm_medium=cpc&utm_campaign=[MC4]_[G]_[PMax]_Categorias&utm_content=&utm_term=&gad_source=1&gclid=CjwKCAiA29auBhBxEiwAnKcSqoP_PlXb0uz7SRL7BcZ8FP4b5UA1UIzqzjuvcCacWAGWC0OnEYw3fBoCjigQAvD_BwE)
+- Servos motores (6 motores)
 - Motor de passo NEMA17
 - Potenciômetros (quantidade conforme necessário)
-- Módulo de driver de motor de passo (se necessário)
+- Módulo de driver de motor de passo (https://www.baudaeletronica.com.br/produto/driver-de-motor-de-passo-a4988.html)
 - Fios de conexão
 
 ## Instalação e Configuração
