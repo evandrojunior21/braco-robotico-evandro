@@ -7,16 +7,27 @@ Projeto para impressão 3D: https://www.thingiverse.com/limpsquid/designs
 ## Hardware Necessário
 
 6 x Servo Motor – MG966R Series	(metálico)
+
 Servo Driver, PCA9685	
+
 Battery Pack (5V, 2200 mAh)	
+
 Arduino Uno	(Usei um mega para conectar todos os 6 potênciometros)
+
 Arduino HC-05	
+
 Protoboard 2x
+
 NEMA 17 Servo Motor	
+
 A4988 Stepper Motor Driver	
+
 LiPo 11.1V, 2200mAh, 3s
+
 Potênciometros 10k 6x
+
 Fios de conexão
+
 
 ## Instalação e Configuração
 
