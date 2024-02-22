@@ -6,13 +6,17 @@ Projeto para impressão 3D: https://www.thingiverse.com/limpsquid/designs
 
 ## Hardware Necessário
 
-- Arduino Uno ou Mega (foi usando um mega pela quantidade portas analógicas caso use o Uno utilize um módulo hub de portas)
-- PCA9685 Servo Driver (https://www.eletrogate.com/modulo-pwm-pca9685-i2c-16-canais-para-servo?utm_source=Site&utm_medium=GoogleMerchant&utm_campaign=GoogleMerchant&utm_source=google&utm_medium=cpc&utm_campaign=[MC4]_[G]_[PMax]_Categorias&utm_content=&utm_term=&gad_source=1&gclid=CjwKCAiA29auBhBxEiwAnKcSqoP_PlXb0uz7SRL7BcZ8FP4b5UA1UIzqzjuvcCacWAGWC0OnEYw3fBoCjigQAvD_BwE)
-- Servos motores (6 motores)
-- Motor de passo NEMA17
-- Potenciômetros (quantidade conforme necessário)
-- Módulo de driver de motor de passo (https://www.baudaeletronica.com.br/produto/driver-de-motor-de-passo-a4988.html)
-- Fios de conexão
+6 x Servo Motor – MG966R Series	(metálico)
+Servo Driver, PCA9685	
+Battery Pack (5V, 2200 mAh)	
+Arduino Uno	(Usei um mega para conectar todos os 6 potênciometros)
+Arduino HC-05	
+Protoboard 2x
+NEMA 17 Servo Motor	
+A4988 Stepper Motor Driver	
+LiPo 11.1V, 2200mAh, 3s
+Potênciometros 10k 6x
+Fios de conexão
 
 ## Instalação e Configuração
 
